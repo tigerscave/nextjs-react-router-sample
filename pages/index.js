@@ -11,6 +11,10 @@ const Index = () => {
       <Link href="/memory-router-example">
         <a>Memory Router Example</a>
       </Link>
+      <br />
+      <Link href="/google-map-example">
+        <a>Google Map Example</a>
+      </Link>
       <style jsx>{`
         h1 {
           color: red;
